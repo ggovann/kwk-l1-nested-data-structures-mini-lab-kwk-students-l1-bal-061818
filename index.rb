@@ -39,4 +39,4 @@ def city_populations(cities)
   cities[:chicago][:population]
   # your code here!
 end
-city_populations
+city_populations(cities)
