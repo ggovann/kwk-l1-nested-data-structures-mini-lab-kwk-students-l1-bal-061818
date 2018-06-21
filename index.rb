@@ -7,6 +7,7 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
+  
   # your code here!
 end
 
@@ -35,5 +36,6 @@ cities = {
 }
 
 def city_populations(cities)
+  cities[:chicago][:population]
   # your code here!
 end
