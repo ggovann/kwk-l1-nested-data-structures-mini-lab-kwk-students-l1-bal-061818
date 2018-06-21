@@ -36,7 +36,6 @@ cities = {
 }
 
 def city_populations(cities)
-  cities[:chicago][:population]
+puts "The population of #{cities}, is #{cities[population]}"
   # your code here!
 end
-city_populations(miami)
